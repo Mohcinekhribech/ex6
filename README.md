@@ -1,1 +1,2 @@
 # ex6
+calcul
