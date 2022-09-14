@@ -1,2 +1,1 @@
-# ex6
-calcul
+# calculatrice (langage c)
